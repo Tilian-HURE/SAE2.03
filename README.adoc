@@ -1,0 +1,3 @@
+= SAE2.03 - Administration d'un système réseau
+
+Travaux **en binôme** mettant en œuvre la manipulation d'un serveur Linux Debian, la recherche d'informations, l'ajout et le paramètrage d'utilisateurs et de droits (administrateur et invité), le déploiement d'un serveur HTTP et d'un https://github.com/Tilian-HURE/SAE1.06[site web], et la réalisation de livrables dont une procédure explicant comment récupérer des fichiers depuis le serveur.
